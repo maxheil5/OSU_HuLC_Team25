@@ -1,9 +1,9 @@
 # 📢 OSU Human Lander Challenge (HuLC) 2025 Team
 
 <div align="center">
-  <img src="https://engineering.osu.edu/sites/default/files/uploads/logos/OSU-Engineering-Vert-RGBHEX.jpg" alt="OSU Logo" width="150">
+  <img src="https://engineering.osu.edu/sites/default/files/uploads/logos/OSU-Engineering-Vert-RGBHEX.jpg" alt="OSU Logo" width="200">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/512px-NASA_logo.svg.png" alt="NASA Logo" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/512px-NASA_logo.svg.png" alt="NASA Logo" width="170">
   <br><br>
   <!-- Placeholder for future team logo -->
   <img src="your_team_logo.png" alt="HuLC Team Logo" width="200">
