@@ -11,7 +11,7 @@
   <img src="your_team_logo.png" alt="HuLC Team Logo" width="200"> (LOGO HERE SOON...)
 </div>
 <br>
-Welcome to the **OSU HuLC 2025** GitHub repository! This repository serves as the central hub for our team's research, design, and development efforts for the **NASA Human Lander Challenge (HuLC)** competition.
+Welcome to the OSU HuLC 2025 GitHub repository! This repository serves as the central hub for our team's research, design, and development efforts for the **NASA Human Lander Challenge (HuLC)** competition.
 
 ---
 
