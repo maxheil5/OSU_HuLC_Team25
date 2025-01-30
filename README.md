@@ -1,6 +1,6 @@
 # 📢 OSU Human Lander Challenge (HuLC) 2025 Team
 
-![OSU Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F469535%2Fohio-state-university-college-of-engineering&psig=AOvVaw2EuHyni7693CvlOU34XQTQ&ust=1738343518841000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDRwrP4nYsDFQAAAAAdAAAAABAE)  
+![OSU Logo](https://engineering.osu.edu/sites/default/files/uploads/logos/OSU-Engineering-Vert-RGBHEX.jpg)  
 ![NASA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/512px-NASA_logo.svg.png)  
 
 Welcome to the **OSU HuLC 2025** GitHub repository! This repository serves as the central hub for our team's research, design, and development efforts for the **NASA Human Lander Challenge (HuLC)** competition.
