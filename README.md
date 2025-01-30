@@ -3,9 +3,9 @@
 <div align="center">
   <img src="https://engineering.osu.edu/sites/default/files/uploads/logos/OSU-Engineering-Vert-RGBHEX.jpg" alt="OSU Logo" width="250">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/512px-NASA_logo.svg.png" alt="NASA Logo" width="220">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/512px-NASA_logo.svg.png" alt="NASA Logo" width="270">
     &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/maxheil5/OSU_HuLC_Team25/refs/heads/main/images/HuLC_TextStyle1.png" width="220">
+  <img src="https://raw.githubusercontent.com/maxheil5/OSU_HuLC_Team25/refs/heads/main/images/HuLC_TextStyle1.png" width="270">
   <br><br>
   <!-- Placeholder for future team logo -->
   <img src="your_team_logo.png" alt="HuLC Team Logo" width="200">
