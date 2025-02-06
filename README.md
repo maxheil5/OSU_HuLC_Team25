@@ -22,7 +22,7 @@ The **NASA Human Lander Challenge (HuLC)** is a prestigious competition hosted b
 🔗 **Official Website:** [HuLC.nianet.org](https://hulc.nianet.org/)
 
 💰 **Prize Pool:**  
-- $9,250 stipend for travel and attendance  
+- $9,250 stipend for travel, attendance, and project related expenses 
 - $18,000 purse for the **top 3 teams**  
 
 📍 **Final Forum:** Huntsville, AL (NASA Marshall) – Late June 2025  
