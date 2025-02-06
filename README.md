@@ -47,12 +47,7 @@ Our team will focus on one or more of the following challenges:
 ## 👨‍💻 Team & Contact
 
 📌 **Team Lead:** [Max Heil](mailto:heil.115@osu.edu)  
-📌 **Faculty Advisor:** Dr. John Horack  
-
-👥 **Team Size:** 6–8 students (Spring 2025)  
-🗓 **Weekly meetings starting February 2025**  
-
-Interested in joining? 📧 **Contact Max ASAP!**
+📌 **Faculty Advisor:** Dr. John Horack
 
 ---
 
