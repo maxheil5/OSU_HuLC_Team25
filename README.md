@@ -31,7 +31,7 @@ The **NASA Human Lander Challenge (HuLC)** is a prestigious competition hosted b
 
 ## 🏆 Our Mission
 
-The **Ohio State University** HuLC 2025 Team is committed to pushing the boundaries of **cryogenic fluid management**. Our goal is to design **practical and innovative solutions** that can be implemented by NASA in the next **3–5 years**.
+Our goal is to design **practical and innovative solutions** that can be implemented by NASA in the next **3–5 years**.
 
 ### 🔬 Problem Areas
 Our team will focus on one or more of the following challenges:
