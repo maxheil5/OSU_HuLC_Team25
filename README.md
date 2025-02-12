@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/maxheil5/OSU_HuLC_Team25/refs/heads/main/images/HuLC_TextStyle1.png" width="270">
   <br><br>
   <!-- Placeholder for future team logo -->
-  <img src="your_team_logo.png" alt="HuLC Team Logo" width="200"> (LOGO HERE SOON...)
+  <img src="images/HuLC Logo v2.png" alt="HuLC Team Logo" width="200">
 </div>
 <br>
 Welcome to the OSU HuLC 2025 GitHub repository! This repository serves as the central hub for our team's research, design, and development efforts for the NASA Human Lander Challenge (HuLC) competition.
